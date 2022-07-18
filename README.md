@@ -55,7 +55,6 @@ Ask me anything **[here](https://github.com/mrisswan/mrisswan/issues/new)** or <
 </div>
 <br />
 <br />
----
 
 <div align="center">
 Credit: [mrisswan](https://github.com/mrisswan)
