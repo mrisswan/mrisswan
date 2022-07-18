@@ -6,6 +6,9 @@
 <a href="https://instagram.com/risss_one" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://linktr.ee/mriswan_" target="_blank">
+<img src=https://img.shields.io/badge/linktr.ee-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <br />
 <br />
 
